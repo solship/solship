@@ -1,4 +1,23 @@
-A highly skilled Full Stack Engineer with deep expertise in Rust and its ecosystem, specializing in blockchain, Web3, and high-performance backend systems. Currently focused on Bitcoin protocols (PSBTs, DLCs, Tapscript, and Multisigs) and building scalable solutions using Rust’s safety and concurrency features. Experienced in designing secure, production-ready distributed applications and collaborating with cross-functional teams to push the boundaries of blockchain technology.
+# 🚀 Highlighted Projects
+
+## Pump.fun Revamp
+- Developed an upgraded version of **Pump.fun** with a redesigned UI/UX.  
+- Built a custom smart contract with extended functionality and a **Tax Token (Token 2022)** model.  
+- Integrated **Raydium CPMM migration** and designed a mechanism to distribute collected tax revenue back to token holders.  
+
+## Raydium & Pumpfun Automation Tools
+- **Sniper Bot**: Automated pool monitoring and instant trade execution using **gRPC/RPC**, with transaction validation via **Nextblock, bloXroute, and lilJit**.  
+- **Bundler**: Created Raydium/Pumpfun pools and executed first-block token purchases using **Jito bundling**, with real-time market-making and profit tracking.  
+- **Volume Bot**: Managed market caps and liquidity across **Raydium, Pumpfun, and Meteora**, strategically adjusting volume to maintain stability and growth.  
+- **Maker Bot**: Increased pool activity by orchestrating coordinated purchases from multiple wallets, complementing the Volume Bot.  
+
+## Security & Control Mechanisms
+- **Token Freezer**: Implemented whitelist-based restrictions after pool creation, controlling token distribution and preventing unauthorized sales.  
+- **Token Vesting & Locking Contracts**: Developed staking and vesting solutions with customizable reward structures, duration-based bonuses, and flexible release strategies.  
+
+## Presales, Staking & Game Contracts
+- Delivered **IDO/ICO smart contracts**, advanced staking modules, and game asset management systems on **Solana** and **Sui**.  
+- Supported both **DeFi** and **GameFi** ecosystems with production-grade smart contract development.  
 
 ![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
